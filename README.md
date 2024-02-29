@@ -1,6 +1,6 @@
 # THIS IS A REPO FOR LEARNING TAILWINDCSS
 
-Foobar is a Python library for dealing with word pluralization.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ## Installation
 
